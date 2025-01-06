@@ -36,6 +36,7 @@
 .visual {
     height: 595px;
     background: skyblue;
+    overflow: hidden;
 }
 
 .visual-silder {
